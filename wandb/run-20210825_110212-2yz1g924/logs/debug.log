@@ -1,0 +1,47 @@
+2021-08-25 11:02:12,946 INFO    MainThread:113885 [wandb_setup.py:_flush():69] setting env: {}
+2021-08-25 11:02:12,946 INFO    MainThread:113885 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-08-25 11:02:12,946 INFO    MainThread:113885 [wandb_init.py:_log_setup():342] Logging user logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_110212-2yz1g924/logs/debug.log
+2021-08-25 11:02:12,946 INFO    MainThread:113885 [wandb_init.py:_log_setup():343] Logging internal logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_110212-2yz1g924/logs/debug-internal.log
+2021-08-25 11:02:12,946 INFO    MainThread:113885 [wandb_init.py:init():375] calling init triggers
+2021-08-25 11:02:12,946 INFO    MainThread:113885 [wandb_init.py:init():382] wandb.init called with sweep_config: {}
+config: {}
+2021-08-25 11:02:12,946 INFO    MainThread:113885 [wandb_init.py:init():397] re-initializing run, found existing run on stack: 1sp8i278
+2021-08-25 11:02:12,947 INFO    MainThread:113885 [wandb_run.py:finish():1254] finishing run ranuga-d/House-Prices-Advanced-Regression-Techniques-V9/1sp8i278
+2021-08-25 11:02:12,954 INFO    MainThread:113885 [jupyter.py:save_history():368] saving 23 cells to _session_history.ipynb
+2021-08-25 11:02:12,962 INFO    MainThread:113885 [wandb_run.py:_config_callback():826] config_cb ('_wandb', 'session_history') code/_session_history.ipynb None
+2021-08-25 11:02:12,982 INFO    MainThread:113885 [jupyter.py:save_ipynb():287] looking for notebook: 00.ipynb
+2021-08-25 11:02:14,726 INFO    MainThread:113885 [wandb_init.py:_jupyter_teardown():274] saved code and history
+2021-08-25 11:02:14,726 INFO    MainThread:113885 [wandb_init.py:_jupyter_teardown():275] cleaning up jupyter logic
+2021-08-25 11:02:14,726 INFO    MainThread:113885 [wandb_run.py:_atexit_cleanup():1554] got exitcode: 0
+2021-08-25 11:02:14,726 INFO    MainThread:113885 [wandb_run.py:_restore():1526] restore
+2021-08-25 11:02:15,861 INFO    MainThread:113885 [wandb_init.py:init():424] starting backend
+2021-08-25 11:02:15,861 INFO    MainThread:113885 [backend.py:_multiprocessing_setup():72] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2021-08-25 11:02:15,864 INFO    MainThread:113885 [backend.py:ensure_launched():135] starting backend process...
+2021-08-25 11:02:15,874 INFO    MainThread:113885 [backend.py:ensure_launched():140] started backend process with pid: 114937
+2021-08-25 11:02:15,875 INFO    MainThread:113885 [wandb_init.py:init():429] backend started and connected
+2021-08-25 11:02:15,888 INFO    MainThread:113885 [wandb_run.py:_label_probe_notebook():798] probe notebook
+2021-08-25 11:02:15,888 INFO    MainThread:113885 [wandb_init.py:init():477] updated telemetry
+2021-08-25 11:02:15,889 INFO    MainThread:113885 [wandb_init.py:init():500] communicating current version
+2021-08-25 11:02:17,441 INFO    MainThread:113885 [wandb_init.py:init():505] got version response 
+2021-08-25 11:02:17,441 INFO    MainThread:113885 [wandb_init.py:init():513] communicating run to backend with 30 second timeout
+2021-08-25 11:02:18,140 INFO    MainThread:113885 [wandb_init.py:init():540] starting run threads in backend
+2021-08-25 11:02:18,368 INFO    MainThread:113885 [wandb_settings.py:_apply_source_login():715] setting login settings: {}
+2021-08-25 11:02:18,375 INFO    MainThread:113885 [wandb_setup.py:_flush():69] setting env: {}
+2021-08-25 11:02:18,375 INFO    MainThread:113885 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-08-25 11:02:18,375 INFO    MainThread:113885 [wandb_init.py:_log_setup():342] Logging user logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_110218-1gkjat30/logs/debug.log
+2021-08-25 11:02:18,375 INFO    MainThread:113885 [wandb_init.py:_log_setup():343] Logging internal logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_110218-1gkjat30/logs/debug-internal.log
+2021-08-25 11:02:18,375 INFO    MainThread:113885 [wandb_init.py:_jupyter_setup():294] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f1359fbd210>
+2021-08-25 11:02:18,375 INFO    MainThread:113885 [wandb_init.py:init():375] calling init triggers
+2021-08-25 11:02:18,376 INFO    MainThread:113885 [wandb_init.py:init():382] wandb.init called with sweep_config: {}
+config: {}
+2021-08-25 11:02:18,376 INFO    MainThread:113885 [wandb_init.py:init():424] starting backend
+2021-08-25 11:02:18,376 INFO    MainThread:113885 [backend.py:_multiprocessing_setup():72] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2021-08-25 11:02:18,377 INFO    MainThread:113885 [backend.py:ensure_launched():135] starting backend process...
+2021-08-25 11:02:18,388 INFO    MainThread:113885 [backend.py:ensure_launched():140] started backend process with pid: 115045
+2021-08-25 11:02:18,389 INFO    MainThread:113885 [wandb_init.py:init():429] backend started and connected
+2021-08-25 11:02:18,400 INFO    MainThread:113885 [wandb_run.py:_label_probe_notebook():798] probe notebook
+2021-08-25 11:02:18,400 INFO    MainThread:113885 [wandb_init.py:init():477] updated telemetry
+2021-08-25 11:02:18,401 INFO    MainThread:113885 [wandb_init.py:init():500] communicating current version
+2021-08-25 11:02:19,199 INFO    MainThread:113885 [wandb_init.py:init():505] got version response 
+2021-08-25 11:02:19,199 INFO    MainThread:113885 [wandb_init.py:init():513] communicating run to backend with 30 second timeout
+2021-08-25 11:02:19,749 INFO    MainThread:113885 [wandb_init.py:init():540] starting run threads in backend

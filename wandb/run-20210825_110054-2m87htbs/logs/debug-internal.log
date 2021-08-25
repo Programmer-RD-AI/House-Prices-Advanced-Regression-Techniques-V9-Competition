@@ -1,0 +1,9 @@
+2021-08-25 11:00:54,917 INFO    MainThread:113486 [internal.py:wandb_internal():89] W&B internal server running at pid: 113486, started at: 2021-08-25 11:00:54.917324
+2021-08-25 11:00:54,918 DEBUG   HandlerThread:113486 [handler.py:handle_request():128] handle_request: check_version
+2021-08-25 11:00:54,919 INFO    WriterThread:113486 [datastore.py:open_for_write():77] open: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_110054-2m87htbs/run-2m87htbs.wandb
+2021-08-25 11:00:54,920 DEBUG   SenderThread:113486 [sender.py:send():182] send: header
+2021-08-25 11:00:54,920 DEBUG   SenderThread:113486 [sender.py:send_request():196] send_request: check_version
+2021-08-25 11:00:57,251 DEBUG   SenderThread:113486 [sender.py:send():182] send: run
+2021-08-25 11:00:57,467 WARNING MainThread:113486 [internal.py:wandb_internal():145] Internal process interrupt: 1
+2021-08-25 11:00:57,933 INFO    SenderThread:113486 [dir_watcher.py:__init__():168] watching files in: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_110054-2m87htbs/files
+2021-08-25 11:00:57,933 INFO    SenderThread:113486 [sender.py:_start_run_threads():743] run started: 2m87htbs with start time 1629869454

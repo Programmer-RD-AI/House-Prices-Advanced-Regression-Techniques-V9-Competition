@@ -1,0 +1,6 @@
+2021-08-25 10:59:18,449 INFO    MainThread:111803 [internal.py:wandb_internal():89] W&B internal server running at pid: 111803, started at: 2021-08-25 10:59:18.448912
+2021-08-25 10:59:18,450 DEBUG   HandlerThread:111803 [handler.py:handle_request():128] handle_request: check_version
+2021-08-25 10:59:18,450 INFO    WriterThread:111803 [datastore.py:open_for_write():77] open: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_105917-159shkpx/run-159shkpx.wandb
+2021-08-25 10:59:18,452 DEBUG   SenderThread:111803 [sender.py:send():182] send: header
+2021-08-25 10:59:18,452 DEBUG   SenderThread:111803 [sender.py:send_request():196] send_request: check_version
+2021-08-25 10:59:19,731 DEBUG   SenderThread:111803 [sender.py:send():182] send: run

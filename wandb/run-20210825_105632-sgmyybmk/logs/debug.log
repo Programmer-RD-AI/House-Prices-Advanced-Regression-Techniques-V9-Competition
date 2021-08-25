@@ -380,3 +380,18 @@ pusher_stats {
 2021-08-25 10:56:58,706 INFO    MainThread:107641 [wandb_init.py:init():505] got version response 
 2021-08-25 10:56:58,707 INFO    MainThread:107641 [wandb_init.py:init():513] communicating run to backend with 30 second timeout
 2021-08-25 10:56:59,189 INFO    MainThread:107641 [wandb_init.py:init():540] starting run threads in backend
+2021-08-25 10:57:04,196 INFO    MainThread:107641 [wandb_run.py:_console_start():1584] atexit reg
+2021-08-25 10:57:04,196 INFO    MainThread:107641 [wandb_run.py:_redirect():1458] redirect: SettingsConsole.WRAP
+2021-08-25 10:57:04,196 INFO    MainThread:107641 [wandb_run.py:_redirect():1495] Wrapping output streams.
+2021-08-25 10:57:04,197 INFO    MainThread:107641 [wandb_run.py:_redirect():1519] Redirects installed.
+2021-08-25 10:57:04,197 INFO    MainThread:107641 [wandb_init.py:init():565] run started, returning control to user process
+2021-08-25 10:57:04,211 INFO    MainThread:107641 [wandb_setup.py:_flush():69] setting env: {}
+2021-08-25 10:57:04,211 INFO    MainThread:107641 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-08-25 10:57:04,211 INFO    MainThread:107641 [wandb_init.py:_log_setup():342] Logging user logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_105704-330avsvp/logs/debug.log
+2021-08-25 10:57:04,211 INFO    MainThread:107641 [wandb_init.py:_log_setup():343] Logging internal logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_105704-330avsvp/logs/debug-internal.log
+2021-08-25 10:57:04,212 INFO    MainThread:107641 [wandb_init.py:_jupyter_setup():294] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7fe1740bef90>
+2021-08-25 10:57:04,212 INFO    MainThread:107641 [wandb_init.py:init():375] calling init triggers
+2021-08-25 10:57:04,212 INFO    MainThread:107641 [wandb_init.py:init():382] wandb.init called with sweep_config: {}
+config: {}
+2021-08-25 10:57:04,212 INFO    MainThread:107641 [wandb_init.py:init():397] re-initializing run, found existing run on stack: sgmyybmk
+2021-08-25 10:57:04,213 INFO    MainThread:107641 [wandb_run.py:finish():1254] finishing run ranuga-d/House-Prices-Advanced-Regression-Techniques-V9/sgmyybmk

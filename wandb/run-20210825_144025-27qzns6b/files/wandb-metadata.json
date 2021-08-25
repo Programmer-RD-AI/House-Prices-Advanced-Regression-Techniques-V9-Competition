@@ -1,0 +1,26 @@
+{
+    "os": "Linux-5.11.0-27-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.7",
+    "heartbeatAt": "2021-08-25T09:10:39.656104",
+    "startedAt": "2021-08-25T09:10:25.623327",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/indika/.local/share/jupyter/runtime/kernel-e3d604e5-87de-4636-8066-014ab4637d93.json"
+    ],
+    "state": "running",
+    "program": "00.ipynb",
+    "root": "/home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition",
+    "git": {
+        "remote": null,
+        "commit": "f272ce02bc07be41dd8502905df2cb783a02c449"
+    },
+    "email": "aigithub@gmail.com",
+    "host": "programmer-rd-ai",
+    "username": "indika",
+    "executable": "/home/indika/anaconda3/bin/python"
+}

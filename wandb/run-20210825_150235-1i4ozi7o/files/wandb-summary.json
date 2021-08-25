@@ -1,0 +1,1 @@
+{"mean_absolute_error": 4702.397260273972, "mean_squared_error": 171419089.04109588, "_runtime": 6, "_timestamp": 1629883971, "_step": 1, "val mean_absolute_error": 4702.397260273972, "val mean_squared_error": 171419089.04109588, "_wandb": {"runtime": 7}}

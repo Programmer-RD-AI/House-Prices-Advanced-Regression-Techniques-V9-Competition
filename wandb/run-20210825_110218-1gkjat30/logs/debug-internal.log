@@ -1,0 +1,27 @@
+2021-08-25 11:02:18,870 INFO    MainThread:115045 [internal.py:wandb_internal():89] W&B internal server running at pid: 115045, started at: 2021-08-25 11:02:18.870609
+2021-08-25 11:02:18,872 DEBUG   HandlerThread:115045 [handler.py:handle_request():128] handle_request: check_version
+2021-08-25 11:02:18,872 INFO    WriterThread:115045 [datastore.py:open_for_write():77] open: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_110218-1gkjat30/run-1gkjat30.wandb
+2021-08-25 11:02:18,873 DEBUG   SenderThread:115045 [sender.py:send():182] send: header
+2021-08-25 11:02:18,873 DEBUG   SenderThread:115045 [sender.py:send_request():196] send_request: check_version
+2021-08-25 11:02:19,200 DEBUG   SenderThread:115045 [sender.py:send():182] send: run
+2021-08-25 11:02:19,749 INFO    SenderThread:115045 [dir_watcher.py:__init__():168] watching files in: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_110218-1gkjat30/files
+2021-08-25 11:02:19,749 INFO    SenderThread:115045 [sender.py:_start_run_threads():743] run started: 1gkjat30 with start time 1629869538
+2021-08-25 11:02:19,749 DEBUG   SenderThread:115045 [sender.py:send():182] send: summary
+2021-08-25 11:02:19,749 INFO    SenderThread:115045 [sender.py:_save_file():873] saving file wandb-summary.json with policy end
+2021-08-25 11:02:19,750 DEBUG   HandlerThread:115045 [handler.py:handle_request():128] handle_request: run_start
+2021-08-25 11:02:19,753 DEBUG   HandlerThread:115045 [meta.py:__init__():39] meta init
+2021-08-25 11:02:19,753 DEBUG   HandlerThread:115045 [meta.py:__init__():53] meta init done
+2021-08-25 11:02:19,753 DEBUG   HandlerThread:115045 [meta.py:probe():210] probe
+2021-08-25 11:02:19,759 DEBUG   HandlerThread:115045 [meta.py:_setup_git():200] setup git
+2021-08-25 11:02:19,772 DEBUG   HandlerThread:115045 [meta.py:_setup_git():207] setup git done
+2021-08-25 11:02:19,772 DEBUG   HandlerThread:115045 [meta.py:_save_code():89] save code
+2021-08-25 11:02:19,773 WARNING HandlerThread:115045 [meta.py:_save_code():91] unable to save code -- program entry not found
+2021-08-25 11:02:19,773 DEBUG   HandlerThread:115045 [meta.py:_save_patches():127] save patches
+2021-08-25 11:02:19,799 DEBUG   HandlerThread:115045 [meta.py:_save_patches():169] save patches done
+2021-08-25 11:02:19,799 DEBUG   HandlerThread:115045 [meta.py:_save_pip():57] save pip
+2021-08-25 11:02:19,800 DEBUG   HandlerThread:115045 [meta.py:_save_pip():71] save pip done
+2021-08-25 11:02:19,800 DEBUG   HandlerThread:115045 [meta.py:_save_conda():78] save conda
+2021-08-25 11:02:20,752 INFO    Thread-8  :115045 [dir_watcher.py:_on_file_created():216] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_110218-1gkjat30/files/requirements.txt
+2021-08-25 11:02:20,752 INFO    Thread-8  :115045 [dir_watcher.py:_on_file_created():216] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_110218-1gkjat30/files/wandb-summary.json
+2021-08-25 11:02:20,752 INFO    Thread-8  :115045 [dir_watcher.py:_on_file_created():216] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_110218-1gkjat30/files/conda-environment.yaml
+2021-08-25 11:02:20,752 INFO    Thread-8  :115045 [dir_watcher.py:_on_file_created():216] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_110218-1gkjat30/files/diff.patch

@@ -1,0 +1,8 @@
+2021-08-25 11:04:23,224 INFO    MainThread:116789 [internal.py:wandb_internal():89] W&B internal server running at pid: 116789, started at: 2021-08-25 11:04:23.223891
+2021-08-25 11:04:23,226 DEBUG   HandlerThread:116789 [handler.py:handle_request():128] handle_request: check_version
+2021-08-25 11:04:23,226 INFO    WriterThread:116789 [datastore.py:open_for_write():77] open: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_110422-ugt5cbfn/run-ugt5cbfn.wandb
+2021-08-25 11:04:23,227 DEBUG   SenderThread:116789 [sender.py:send():182] send: header
+2021-08-25 11:04:23,227 DEBUG   SenderThread:116789 [sender.py:send_request():196] send_request: check_version
+2021-08-25 11:04:23,773 DEBUG   SenderThread:116789 [sender.py:send():182] send: run
+2021-08-25 11:04:25,940 INFO    SenderThread:116789 [dir_watcher.py:__init__():168] watching files in: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_110422-ugt5cbfn/files
+2021-08-25 11:04:25,940 INFO    SenderThread:116789 [sender.py:_start_run_threads():743] run started: ugt5cbfn with start time 1629869662

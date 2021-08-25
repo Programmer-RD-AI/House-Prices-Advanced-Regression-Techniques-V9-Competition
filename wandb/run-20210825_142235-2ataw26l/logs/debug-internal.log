@@ -1,0 +1,196 @@
+2021-08-25 14:23:03,801 INFO    MainThread:224692 [internal.py:wandb_internal():89] W&B internal server running at pid: 224692, started at: 2021-08-25 14:23:03.801305
+2021-08-25 14:23:03,803 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: check_version
+2021-08-25 14:23:03,803 INFO    WriterThread:224692 [datastore.py:open_for_write():77] open: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/run-2ataw26l.wandb
+2021-08-25 14:23:03,805 DEBUG   SenderThread:224692 [sender.py:send():182] send: header
+2021-08-25 14:23:03,805 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: check_version
+2021-08-25 14:23:04,446 DEBUG   SenderThread:224692 [sender.py:send():182] send: run
+2021-08-25 14:23:04,849 INFO    SenderThread:224692 [dir_watcher.py:__init__():168] watching files in: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files
+2021-08-25 14:23:04,849 INFO    SenderThread:224692 [sender.py:_start_run_threads():743] run started: 2ataw26l with start time 1629881583
+2021-08-25 14:23:04,849 DEBUG   SenderThread:224692 [sender.py:send():182] send: summary
+2021-08-25 14:23:04,850 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: run_start
+2021-08-25 14:23:04,850 INFO    SenderThread:224692 [sender.py:_save_file():873] saving file wandb-summary.json with policy end
+2021-08-25 14:23:04,853 DEBUG   HandlerThread:224692 [meta.py:__init__():39] meta init
+2021-08-25 14:23:04,853 DEBUG   HandlerThread:224692 [meta.py:__init__():53] meta init done
+2021-08-25 14:23:04,853 DEBUG   HandlerThread:224692 [meta.py:probe():210] probe
+2021-08-25 14:23:04,859 DEBUG   HandlerThread:224692 [meta.py:_setup_git():200] setup git
+2021-08-25 14:23:04,872 DEBUG   HandlerThread:224692 [meta.py:_setup_git():207] setup git done
+2021-08-25 14:23:04,872 DEBUG   HandlerThread:224692 [meta.py:_save_code():89] save code
+2021-08-25 14:23:04,872 WARNING HandlerThread:224692 [meta.py:_save_code():91] unable to save code -- program entry not found
+2021-08-25 14:23:04,872 DEBUG   HandlerThread:224692 [meta.py:_save_patches():127] save patches
+2021-08-25 14:23:04,907 DEBUG   HandlerThread:224692 [meta.py:_save_patches():169] save patches done
+2021-08-25 14:23:04,907 DEBUG   HandlerThread:224692 [meta.py:_save_pip():57] save pip
+2021-08-25 14:23:04,908 DEBUG   HandlerThread:224692 [meta.py:_save_pip():71] save pip done
+2021-08-25 14:23:04,908 DEBUG   HandlerThread:224692 [meta.py:_save_conda():78] save conda
+2021-08-25 14:23:05,852 INFO    Thread-8  :224692 [dir_watcher.py:_on_file_created():216] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/diff.patch
+2021-08-25 14:23:05,853 INFO    Thread-8  :224692 [dir_watcher.py:_on_file_created():216] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/wandb-summary.json
+2021-08-25 14:23:05,853 INFO    Thread-8  :224692 [dir_watcher.py:_on_file_created():216] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/requirements.txt
+2021-08-25 14:23:05,853 INFO    Thread-8  :224692 [dir_watcher.py:_on_file_created():216] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/conda-environment.yaml
+2021-08-25 14:23:10,851 INFO    Thread-8  :224692 [dir_watcher.py:_on_file_created():216] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/output.log
+2021-08-25 14:23:12,153 DEBUG   HandlerThread:224692 [meta.py:_save_conda():86] save conda done
+2021-08-25 14:23:12,153 DEBUG   HandlerThread:224692 [meta.py:probe():252] probe done
+2021-08-25 14:23:12,176 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: stop_status
+2021-08-25 14:23:12,176 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: stop_status
+2021-08-25 14:23:12,852 INFO    Thread-8  :224692 [dir_watcher.py:_on_file_modified():229] file/dir modified: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/conda-environment.yaml
+2021-08-25 14:23:12,852 INFO    Thread-8  :224692 [dir_watcher.py:_on_file_created():216] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/wandb-metadata.json
+2021-08-25 14:23:13,850 DEBUG   SenderThread:224692 [sender.py:send():182] send: files
+2021-08-25 14:23:13,850 INFO    SenderThread:224692 [sender.py:_save_file():873] saving file wandb-metadata.json with policy now
+2021-08-25 14:23:13,851 INFO    SenderThread:224692 [sender.py:_save_file():873] saving file diff.patch with policy now
+2021-08-25 14:23:16,576 INFO    Thread-11 :224692 [upload_job.py:push():137] Uploaded file /tmp/tmp_j7skxxzwandb/138ydc3c-wandb-metadata.json
+2021-08-25 14:23:18,644 INFO    Thread-12 :224692 [upload_job.py:push():137] Uploaded file /tmp/tmp_j7skxxzwandb/py1ntbmz-diff.patch
+2021-08-25 14:23:28,851 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: stop_status
+2021-08-25 14:23:28,852 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: stop_status
+2021-08-25 14:23:33,125 DEBUG   SenderThread:224692 [sender.py:send():182] send: stats
+2021-08-25 14:23:44,620 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: stop_status
+2021-08-25 14:23:44,621 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: stop_status
+2021-08-25 14:24:00,095 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: stop_status
+2021-08-25 14:24:00,095 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: stop_status
+2021-08-25 14:24:03,355 DEBUG   SenderThread:224692 [sender.py:send():182] send: stats
+2021-08-25 14:24:15,480 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: stop_status
+2021-08-25 14:24:15,480 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: stop_status
+2021-08-25 14:24:30,856 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: stop_status
+2021-08-25 14:24:30,856 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: stop_status
+2021-08-25 14:24:33,591 DEBUG   SenderThread:224692 [sender.py:send():182] send: stats
+2021-08-25 14:24:46,675 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: stop_status
+2021-08-25 14:24:46,676 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: stop_status
+2021-08-25 14:25:02,063 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: stop_status
+2021-08-25 14:25:02,064 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: stop_status
+2021-08-25 14:25:03,841 DEBUG   SenderThread:224692 [sender.py:send():182] send: stats
+2021-08-25 14:25:17,456 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: stop_status
+2021-08-25 14:25:17,456 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: stop_status
+2021-08-25 14:25:34,080 DEBUG   SenderThread:224692 [sender.py:send():182] send: stats
+2021-08-25 14:25:34,997 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: stop_status
+2021-08-25 14:25:34,997 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: stop_status
+2021-08-25 14:25:50,387 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: stop_status
+2021-08-25 14:25:50,387 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: stop_status
+2021-08-25 14:26:02,534 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:02,534 DEBUG   SenderThread:224692 [sender.py:send():182] send: telemetry
+2021-08-25 14:26:02,534 DEBUG   SenderThread:224692 [sender.py:send():182] send: exit
+2021-08-25 14:26:02,535 INFO    SenderThread:224692 [sender.py:send_exit():291] handling exit code: 0
+2021-08-25 14:26:02,535 INFO    SenderThread:224692 [sender.py:send_exit():293] handling runtime: 177
+2021-08-25 14:26:02,537 INFO    SenderThread:224692 [sender.py:_save_file():873] saving file wandb-summary.json with policy end
+2021-08-25 14:26:02,538 INFO    SenderThread:224692 [sender.py:send_exit():303] send defer
+2021-08-25 14:26:02,538 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:02,538 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: defer
+2021-08-25 14:26:02,538 INFO    HandlerThread:224692 [handler.py:handle_request_defer():145] handle defer: 0
+2021-08-25 14:26:02,539 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: defer
+2021-08-25 14:26:02,539 INFO    SenderThread:224692 [sender.py:send_request_defer():312] handle sender defer: 0
+2021-08-25 14:26:02,539 INFO    SenderThread:224692 [sender.py:transition_state():316] send defer: 1
+2021-08-25 14:26:02,539 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: defer
+2021-08-25 14:26:02,539 INFO    HandlerThread:224692 [handler.py:handle_request_defer():145] handle defer: 1
+2021-08-25 14:26:02,604 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: defer
+2021-08-25 14:26:02,604 INFO    SenderThread:224692 [sender.py:send_request_defer():312] handle sender defer: 1
+2021-08-25 14:26:02,604 INFO    SenderThread:224692 [sender.py:transition_state():316] send defer: 2
+2021-08-25 14:26:02,604 DEBUG   SenderThread:224692 [sender.py:send():182] send: stats
+2021-08-25 14:26:02,605 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: defer
+2021-08-25 14:26:02,605 INFO    HandlerThread:224692 [handler.py:handle_request_defer():145] handle defer: 2
+2021-08-25 14:26:02,605 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: defer
+2021-08-25 14:26:02,605 INFO    SenderThread:224692 [sender.py:send_request_defer():312] handle sender defer: 2
+2021-08-25 14:26:02,605 INFO    SenderThread:224692 [sender.py:transition_state():316] send defer: 3
+2021-08-25 14:26:02,605 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: defer
+2021-08-25 14:26:02,605 INFO    HandlerThread:224692 [handler.py:handle_request_defer():145] handle defer: 3
+2021-08-25 14:26:02,605 DEBUG   SenderThread:224692 [sender.py:send():182] send: summary
+2021-08-25 14:26:02,606 INFO    SenderThread:224692 [sender.py:_save_file():873] saving file wandb-summary.json with policy end
+2021-08-25 14:26:02,606 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: defer
+2021-08-25 14:26:02,606 INFO    SenderThread:224692 [sender.py:send_request_defer():312] handle sender defer: 3
+2021-08-25 14:26:02,606 INFO    SenderThread:224692 [sender.py:transition_state():316] send defer: 4
+2021-08-25 14:26:02,606 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: defer
+2021-08-25 14:26:02,606 INFO    HandlerThread:224692 [handler.py:handle_request_defer():145] handle defer: 4
+2021-08-25 14:26:02,606 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: defer
+2021-08-25 14:26:02,606 INFO    SenderThread:224692 [sender.py:send_request_defer():312] handle sender defer: 4
+2021-08-25 14:26:02,643 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:02,912 INFO    Thread-8  :224692 [dir_watcher.py:_on_file_modified():229] file/dir modified: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/wandb-summary.json
+2021-08-25 14:26:02,996 INFO    SenderThread:224692 [sender.py:transition_state():316] send defer: 5
+2021-08-25 14:26:02,996 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:02,996 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: defer
+2021-08-25 14:26:02,997 INFO    HandlerThread:224692 [handler.py:handle_request_defer():145] handle defer: 5
+2021-08-25 14:26:02,997 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: defer
+2021-08-25 14:26:02,997 INFO    SenderThread:224692 [sender.py:send_request_defer():312] handle sender defer: 5
+2021-08-25 14:26:02,997 INFO    SenderThread:224692 [dir_watcher.py:finish():282] shutting down directory watcher
+2021-08-25 14:26:03,098 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:03,913 INFO    Thread-8  :224692 [dir_watcher.py:_on_file_modified():229] file/dir modified: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/config.yaml
+2021-08-25 14:26:03,914 INFO    SenderThread:224692 [dir_watcher.py:finish():312] scan: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files
+2021-08-25 14:26:03,914 INFO    SenderThread:224692 [dir_watcher.py:finish():318] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/diff.patch diff.patch
+2021-08-25 14:26:03,914 INFO    SenderThread:224692 [dir_watcher.py:finish():318] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/wandb-summary.json wandb-summary.json
+2021-08-25 14:26:03,914 INFO    SenderThread:224692 [dir_watcher.py:finish():318] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/wandb-metadata.json wandb-metadata.json
+2021-08-25 14:26:03,914 INFO    SenderThread:224692 [dir_watcher.py:finish():318] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/output.log output.log
+2021-08-25 14:26:03,919 INFO    SenderThread:224692 [dir_watcher.py:finish():318] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/requirements.txt requirements.txt
+2021-08-25 14:26:03,919 INFO    SenderThread:224692 [dir_watcher.py:finish():318] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/config.yaml config.yaml
+2021-08-25 14:26:03,923 INFO    SenderThread:224692 [dir_watcher.py:finish():318] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/conda-environment.yaml conda-environment.yaml
+2021-08-25 14:26:03,923 INFO    SenderThread:224692 [sender.py:transition_state():316] send defer: 6
+2021-08-25 14:26:03,927 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:03,928 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: defer
+2021-08-25 14:26:03,928 INFO    HandlerThread:224692 [handler.py:handle_request_defer():145] handle defer: 6
+2021-08-25 14:26:03,932 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: defer
+2021-08-25 14:26:03,932 INFO    SenderThread:224692 [sender.py:send_request_defer():312] handle sender defer: 6
+2021-08-25 14:26:03,932 INFO    SenderThread:224692 [file_pusher.py:finish():177] shutting down file pusher
+2021-08-25 14:26:04,030 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:04,031 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:04,132 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:04,132 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:04,234 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:04,234 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:04,335 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:04,336 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:04,437 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:04,437 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:04,538 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:04,539 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:04,640 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:04,640 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:04,741 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:04,741 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:04,844 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:04,844 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:04,945 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:04,946 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:05,047 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:05,047 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:05,148 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:05,148 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:05,249 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:05,250 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:05,352 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:05,352 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:05,453 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:05,453 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:05,487 INFO    Thread-14 :224692 [upload_job.py:push():137] Uploaded file /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/requirements.txt
+2021-08-25 14:26:05,519 INFO    Thread-13 :224692 [upload_job.py:push():137] Uploaded file /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/wandb-summary.json
+2021-08-25 14:26:05,520 INFO    Thread-16 :224692 [upload_job.py:push():137] Uploaded file /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/conda-environment.yaml
+2021-08-25 14:26:05,554 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:05,554 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:05,645 INFO    Thread-15 :224692 [upload_job.py:push():137] Uploaded file /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/files/config.yaml
+2021-08-25 14:26:05,656 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:05,656 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:05,757 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:05,757 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:05,846 INFO    Thread-7  :224692 [sender.py:transition_state():316] send defer: 7
+2021-08-25 14:26:05,846 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: defer
+2021-08-25 14:26:05,846 INFO    HandlerThread:224692 [handler.py:handle_request_defer():145] handle defer: 7
+2021-08-25 14:26:05,846 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: defer
+2021-08-25 14:26:05,847 INFO    SenderThread:224692 [sender.py:send_request_defer():312] handle sender defer: 7
+2021-08-25 14:26:05,858 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:06,395 INFO    SenderThread:224692 [sender.py:transition_state():316] send defer: 8
+2021-08-25 14:26:06,396 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:06,396 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: defer
+2021-08-25 14:26:06,396 INFO    HandlerThread:224692 [handler.py:handle_request_defer():145] handle defer: 8
+2021-08-25 14:26:06,396 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: defer
+2021-08-25 14:26:06,397 INFO    SenderThread:224692 [sender.py:send_request_defer():312] handle sender defer: 8
+2021-08-25 14:26:06,397 INFO    SenderThread:224692 [sender.py:transition_state():316] send defer: 9
+2021-08-25 14:26:06,397 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: defer
+2021-08-25 14:26:06,397 DEBUG   SenderThread:224692 [sender.py:send():182] send: final
+2021-08-25 14:26:06,397 INFO    HandlerThread:224692 [handler.py:handle_request_defer():145] handle defer: 9
+2021-08-25 14:26:06,397 DEBUG   SenderThread:224692 [sender.py:send():182] send: footer
+2021-08-25 14:26:06,398 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: defer
+2021-08-25 14:26:06,398 INFO    SenderThread:224692 [sender.py:send_request_defer():312] handle sender defer: 9
+2021-08-25 14:26:06,497 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: poll_exit
+2021-08-25 14:26:06,497 DEBUG   SenderThread:224692 [sender.py:send_request():196] send_request: poll_exit
+2021-08-25 14:26:06,497 INFO    SenderThread:224692 [file_pusher.py:join():182] waiting for file pusher
+2021-08-25 14:26:06,499 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: get_summary
+2021-08-25 14:26:06,499 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: sampled_history
+2021-08-25 14:26:06,500 DEBUG   HandlerThread:224692 [handler.py:handle_request():128] handle_request: shutdown
+2021-08-25 14:26:06,500 INFO    HandlerThread:224692 [handler.py:finish():677] shutting down handler
+2021-08-25 14:26:07,397 INFO    WriterThread:224692 [datastore.py:close():281] close: /home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn-PyTorch/House-Prices-Advanced-Regression-Techniques-V9-Competition/wandb/run-20210825_142235-2ataw26l/run-2ataw26l.wandb
+2021-08-25 14:26:07,497 INFO    SenderThread:224692 [sender.py:finish():979] shutting down sender
+2021-08-25 14:26:07,498 INFO    SenderThread:224692 [file_pusher.py:finish():177] shutting down file pusher
+2021-08-25 14:26:07,498 INFO    SenderThread:224692 [file_pusher.py:join():182] waiting for file pusher
+2021-08-25 14:26:07,499 INFO    MainThread:224692 [internal.py:handle_exit():76] Internal process exited
